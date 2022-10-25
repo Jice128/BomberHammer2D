@@ -1,0 +1,24 @@
+[0804/172925.947:ERROR:angle_platform_impl.cc(47)] testDeviceLost(1884): The D3D11 device was removed, HRESULT: 0x887A0005
+[0804/172925.948:ERROR:raster_decoder.cc(1242)] RasterDecoder context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0804/172925.949:ERROR:raster_decoder.cc(985)]   RasterDecoderImpl: Context reset detected after MakeCurrent.
+[0804/172925.949:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0804/172925.949:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0804/172925.949:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[0804/172925.953:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[0804/172925.954:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[0804/172925.956:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0804/172925.956:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0804/172925.956:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[0804/172925.956:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0804/172925.957:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[0804/172925.957:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0804/172926.019:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0804/172926.112:ERROR:command_buffer_proxy_impl.cc(105)] ContextResult::kTransientFailure: Shared memory region is not valid
+[0804/172926.496:ERROR:command_buffer_proxy_impl.cc(105)] ContextResult::kTransientFailure: Shared memory region is not valid
+[1104/200839.987:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[1104/200940.904:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1104/200941.163:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(55,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(63,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1104/204622.148:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost

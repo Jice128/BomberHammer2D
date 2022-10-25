@@ -1,0 +1,7 @@
+[1006/222920.409:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[1006/222935.767:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1006/222936.015:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(55,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(63,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1006/233852.909:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
